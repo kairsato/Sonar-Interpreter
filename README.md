@@ -16,7 +16,7 @@ Using a feedback loop there are 5 main ROS Nodes
 
 ![alt text](./images/sonarinput.PNG)
 
-**Structure**
+**Node Interaction**
 
 ![alt text](./images/structure.PNG)
 
