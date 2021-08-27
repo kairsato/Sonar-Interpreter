@@ -1,0 +1,7 @@
+uint16 delay
+uint16 before_distance1
+uint16 distance1
+float32 ft1
+---
+float32 acceleration 
+float32 ft 
