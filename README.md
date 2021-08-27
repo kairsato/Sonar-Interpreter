@@ -10,13 +10,13 @@ Using a feedback loop there are 5 main ROS Nodes
 
 
 Input
-![alt text](https://drive.google.com/file/d/101U5PQFTuDMLP9NDVxg_o4IVRVQEhoWq/view?usp=sharing)
+![alt text](https://imgur.com/2vttbnn)
 
 Structure
-![alt text](https://drive.google.com/file/d/19tdwWErA8LcisXoTl9Q2WsUjrgxPd9FO/view?usp=sharing)
+![alt text](https://imgur.com/TdWdncE)
 
 Implemented Kalman Filter
-![alt text](https://drive.google.com/file/d/173YXdjpgEnzbUqosGt0KxFvlYIHYzhLd/view?usp=sharing)
+![alt text](https://imgur.com/YHD2LFv)
 
 Implemented PID algorithmn
-![alt text](https://drive.google.com/file/d/1DCws05VcmJNza3SM_5676-9IzQXM89re/view?usp=sharing)
+![alt text](https://imgur.com/I5gQp4t)
