@@ -1,6 +1,6 @@
 **Task**
 
-Using ROS to drive a robot to a desired target using PID algorithmn and Kalman Filter.
+Using ROS to drive a robot to the desired target using PID algorithm and Kalman Filter.
 Linux Distro: https://www.ros.org/
 
 **Structure**
